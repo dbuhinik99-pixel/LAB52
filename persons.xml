@@ -1,0 +1,24 @@
+<persons>
+  <person>
+    <id>1</id>
+    <name>Дарья</name>
+    <coordX>34</coordX>
+    <coordY>56.0</coordY>
+    <height>175.0</height>
+    <birthday>2001-05-21T14:30</birthday>
+    <hairColor>BROWN</hairColor>
+    <nationality>RUSSIA</nationality>
+    <locX></locX>
+  </person>
+  <person>
+    <id>2</id>
+    <name>save</name>
+    <coordX>4</coordX>
+    <coordY>3.0</coordY>
+    <height>5.0</height>
+    <birthday>2001-05-21T14:30</birthday>
+    <hairColor></hairColor>
+    <nationality></nationality>
+    <locX></locX>
+  </person>
+</persons>
