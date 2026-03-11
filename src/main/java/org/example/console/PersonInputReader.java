@@ -102,7 +102,7 @@ public class PersonInputReader {
 
     private LocalDateTime readBirthday() {
         while (true) {
-            System.out.print("Введите дату рождения в формате yyyy-MM-ddTHH:mm или нажмите Enter для пропуска: ");
+            System.out.print("Введите дату и время рождения в формате yyyy-MM-ddTHH:mm или нажмите Enter для пропуска: ");
             String input = scanner.nextLine().trim();
 
             if (input.isEmpty()) {
