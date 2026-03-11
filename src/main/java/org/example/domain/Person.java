@@ -21,9 +21,8 @@ public class Person implements Comparable<Person> {
     private final Country nationality; // может быть null
     private final Location location; // может быть null
 
-    /**
-     * Конструктор для создания нового объекта (id генерируется автоматически).
-     */
+    //Конструктор для создания нового объекта (id генерируется автоматически).
+     
     public Person(String name,
                   Coordinates coordinates,
                   float height,
